@@ -1,0 +1,15 @@
+name: WaffleCraft
+main: com.cfdigital.wafflecraft.WaffleCraft
+version: 1.0
+author: ColdFyre
+depend:
+  - Vault
+  - WaffleLib
+description: WaffleCraft
+commands:
+  Skill:
+    description: WaffleCraft main menu
+    usage: /skill
+  WC:
+    description: WaffleCraft administrative menu
+    usage: /wc
